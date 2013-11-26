@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bingo/Bingo.iml" filepath="$PROJECT_DIR$/Bingo/Bingo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BingoProject.iml" filepath="$PROJECT_DIR$/BingoProject.iml" />
+    </modules>
+  </component>
+</project>
+
